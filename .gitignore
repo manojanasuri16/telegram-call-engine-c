@@ -1,0 +1,5 @@
+fixtures/
+*.o
+*.so
+a.out
+build/
