@@ -166,3 +166,7 @@ MIT, see [LICENSE](LICENSE). The protocol knowledge comes from reading the publi
 `libtgvoip` and `tgcalls` sources (not copied: this is an independent implementation) and
 from RFC 5389, RFC 5245, RFC 5769, RFC 6184, RFC 3550/4585 and the WebRTC documents. AES and
 SHA code is small-footprint table-based C written for this project (shared with the mtproto-py22 native module); it is not hardened against side channels, so do not use it as a general crypto library.
+
+## Part of the RetroArchive ecosystem
+
+Extracted from [RetroTele](https://github.com/manojanasuri16/RetroTele). All apps, guides and open-source repos are listed on [RetroArchive](https://manojanasuri16.github.io/RetroArchive/) (see the [Open source page](https://manojanasuri16.github.io/RetroArchive/opensource/)); the build toolchain is [symbian-s60v3-toolchain](https://github.com/manojanasuri16/symbian-s60v3-toolchain).
